@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Projeto com bulma",
+        "imgProj": "../imgProj/bulma.png",
+        "link": "https://projeto-bulma.netlify.app/"
+    },
+    {
+        "nome": "Sistema de comentários",
+        "imgProj": "../imgProj/coment.png",
+        "link": "https://sistema-comentario-vue.netlify.app/"
+    },
+    {
+        "nome": "Meus-favoritos",
+        "imgProj": "../imgProj/meus-fav.png",
+        "link": "https://meus-favoritos-nuxt.netlify.app/"
+    },
+    {
+        "nome": "Parallax",
+        "imgProj": "../imgProj/paralax.png",
+        "link": "https://nuxtparallax.netlify.app/"
+    }
+]
