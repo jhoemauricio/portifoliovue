@@ -23,7 +23,7 @@ export const meusProjetos = defineStore('projetos', {
         async fetchDados(){
             try{
            
-                const data = await $fetch<InterfaceProjetos[]>('/projetosJson.json');
+                const data = await $fetch<InterfaceProjetos[]>('projetosJson.json');
 
                 if(data){
                     // this.projetos = data;
