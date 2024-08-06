@@ -15,8 +15,8 @@
     "flowbite": "^2.4.1",
     "nuxt": "^3.12.3",
     "pinia": "^2.1.7",
-    "tailwindcss-animated": "^1.1.2",
-    "vue": "latest"
+    "tailwindcss-animated": "^1.1.2"
+   
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.12.1"
