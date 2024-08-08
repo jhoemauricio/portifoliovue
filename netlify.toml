@@ -1,0 +1,10 @@
+publish = "dist" # Ou ".output/public" dependendo do seu setup
+command = "npm run build"
+
+[context.production.environment]
+NUXT_ENV = "production" # Define variáveis de ambiente para produção
+
+[context.deploy-preview]
+command = "npm run build" # O comando de build para previews
+
+memory = 3072
