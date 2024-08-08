@@ -1,5 +1,5 @@
 publish = "dist"
-command = "npm run build"
+command = "NODE_OPTIONS='--max_old_space_size=4096' npm run build"
 
 [context.production.environment]
 NUXT_ENV = "production" # Define variáveis de ambiente para produção
